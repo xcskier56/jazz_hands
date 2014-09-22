@@ -1,3 +1,14 @@
+Jazz Hands for Ruby 2.1.2!
+
+I've updated the gem dependacies to allow Jazz Hands to work with Ruby 2.1.2
+
+Major Changes
+- gem 'pry-debugger' => gem 'pry-byebug'
+  - gem pry-debugger is not compatible with ruby 2+, pry-byebug is the new version. 
+
+
+
+
 Jazz Hands [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nixme/jazz_hands/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ==========
 
